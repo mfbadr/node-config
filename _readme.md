@@ -1,10 +1,10 @@
-## <name of project>
+## name of project
 ### Code Badges
-<build status>
-<coverage status>
+build status icon
+coverage status icon
 
 ### About
-<write a description about your project>
+write a description about your project
 
 ### Models
 ```
